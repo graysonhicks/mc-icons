@@ -1,0 +1,8 @@
+/.git
+/node_modules
+/src
+/.gitignore
+/.npmignore
+/webpack.config.js
+/.prettierrc
+/.babelrc
